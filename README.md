@@ -16,9 +16,10 @@ In Persian it's Ābtārikān (آبتاریکان). We named ourselves after it.
 
 ### What we're working on: Dream Home
 
-Alex inherits Grandma June's old house, and it's falling apart. You beat match-3 levels to earn
-stars, then spend them fixing the place up one room at a time. The first area, the entrance, has
-100 levels and a short story to go with it.
+Nahid just inherited Grandma Shirin's house in Hotarego, and the place is a mess. Beat match-3
+levels to earn stars, then spend them on the house: fix the door, paint the walls, pick a rug.
+The first area, the entrance, has 100 levels and a short story between them. Meanwhile a developer
+named Mr. Farhad would really like you to sell.
 
 It's written in Kotlin, with Jetpack Compose for the screens and our own OpenGL ES code for the
 puzzle board. Levels, prices and the story live in data files, and the tests check all of them on
@@ -47,13 +48,14 @@ If it goes well, a second house comes next, then the neighborhood, and one day a
 </p>
 
 <p>
-فعلاً سرمان گرم «خانهٔ رؤیایی» است. الکس خانهٔ قدیمی مادربزرگ جون را به ارث برده و خانه دارد از هم
-می‌پاشد. شما مرحله‌ها را می‌برید، ستاره جمع می‌کنید و با آن‌ها خانه را اتاق به اتاق درست می‌کنید.
-بخش اول، یعنی ورودی خانه، ۱۰۰ مرحله و یک داستان کوتاه دارد.
+فعلاً سرمان گرم «خونه‌ی رویایی» است. ناهید خونه‌ی مادربزرگ شیرین رو توی هوتارگو به ارث برده و خونه
+حسابی به هم ریخته‌ست. شما مرحله‌ها را می‌برید، ستاره جمع می‌کنید و با آن‌ها به خونه می‌رسید: در را
+تعمیر می‌کنید، دیوارها را رنگ می‌زنید، یک فرش انتخاب می‌کنید. بخش اول، یعنی ورودی، ۱۰۰ مرحله و یک
+داستان کوتاه بین مرحله‌ها دارد. این وسط آقای فرهاد هم خیلی دلش می‌خواهد خونه را بفروشید.
 </p>
 
 <p>
-اگر همه‌چیز خوب پیش برود، بعدش نوبت خانهٔ دوم است، بعد محله، و یک روز هم یک شهر کامل.
+اگر همه‌چیز خوب پیش برود، بعدش نوبت خانه‌ی دوم است، بعد محله، و یک روز هم یک شهر کامل.
 </p>
 
 </div>
